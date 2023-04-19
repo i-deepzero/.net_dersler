@@ -1,0 +1,15 @@
+D:\yazilim\C#_.Net\ders\Ders_3\bin\Debug\net7.0\Ders_3.exe
+D:\yazilim\C#_.Net\ders\Ders_3\bin\Debug\net7.0\Ders_3.deps.json
+D:\yazilim\C#_.Net\ders\Ders_3\bin\Debug\net7.0\Ders_3.runtimeconfig.json
+D:\yazilim\C#_.Net\ders\Ders_3\bin\Debug\net7.0\Ders_3.dll
+D:\yazilim\C#_.Net\ders\Ders_3\bin\Debug\net7.0\Ders_3.pdb
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.csproj.AssemblyReference.cache
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.AssemblyInfoInputs.cache
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.AssemblyInfo.cs
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.csproj.CoreCompileInputs.cache
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.dll
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\refint\Ders_3.dll
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.pdb
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\Ders_3.genruntimeconfig.cache
+D:\yazilim\C#_.Net\ders\Ders_3\obj\Debug\net7.0\ref\Ders_3.dll
