@@ -1,0 +1,7 @@
+{
+    "emmet.excludeLanguages": [
+        "xsl",
+        "xslt"
+    ],
+    "dotnet.defaultSolution": "Ders_5.sln"
+}
