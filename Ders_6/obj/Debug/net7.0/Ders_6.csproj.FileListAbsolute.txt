@@ -1,0 +1,15 @@
+D:\yazilim\C#_.Net\ders\Ders_6\bin\Debug\net7.0\Ders_6.exe
+D:\yazilim\C#_.Net\ders\Ders_6\bin\Debug\net7.0\Ders_6.deps.json
+D:\yazilim\C#_.Net\ders\Ders_6\bin\Debug\net7.0\Ders_6.runtimeconfig.json
+D:\yazilim\C#_.Net\ders\Ders_6\bin\Debug\net7.0\Ders_6.dll
+D:\yazilim\C#_.Net\ders\Ders_6\bin\Debug\net7.0\Ders_6.pdb
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.csproj.AssemblyReference.cache
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.AssemblyInfoInputs.cache
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.AssemblyInfo.cs
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.csproj.CoreCompileInputs.cache
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.dll
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\refint\Ders_6.dll
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.pdb
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\Ders_6.genruntimeconfig.cache
+D:\yazilim\C#_.Net\ders\Ders_6\obj\Debug\net7.0\ref\Ders_6.dll
